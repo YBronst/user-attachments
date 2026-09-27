@@ -1,1 +1,1 @@
-Auxiliary resources will be placed in this repository.
+OpenCore Auxiliary Tools (OCAT) — Restored Auxiliary resources.
