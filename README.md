@@ -1,1 +1,1 @@
-OpenCore Auxiliary Tools (OCAT) — Restored Auxiliary resources.
+OpenCore Auxiliary Tools (OCAT) — Restored additional resources.
